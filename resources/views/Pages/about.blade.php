@@ -1,4 +1,4 @@
-@extends('Layouts.master')
+@extends('Layouts.master', ['title' => 'About'])
 
 @section('content')
 	<div class="container">
